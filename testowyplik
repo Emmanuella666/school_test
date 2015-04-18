@@ -1,0 +1,5 @@
+HowTo simply keep Redmine in sync with GitHub
+There are a lot of means out there. This is the simplest one :
+
+Install the "Redmine Github Hook" plugin and follow their instructions from https://github.com/koppen/redmine_github_hook
+Consider also checking SCM Creator, which comes with support of virtual Github SCM.
